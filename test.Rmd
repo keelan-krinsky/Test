@@ -6,5 +6,5 @@ output: "html_notebook"
 Sentance by used Jezri. 
 Addition form new branch.
 
-I, Jezri have added a new line. 
+I, Keelan have added a new line. 
 This is my edit from keelan
